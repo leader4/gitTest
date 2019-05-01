@@ -2,4 +2,4 @@ git add *
 git commit -m ""
 git init 
 git status 
-
+git diff 
