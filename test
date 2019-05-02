@@ -9,3 +9,4 @@ git reset --hard HEAD^
 git reflog 
 git checkout -- xx.file
 git reset HEAD xx.file
+git push origin master
