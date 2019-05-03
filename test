@@ -21,14 +21,4 @@ git branch -d <name>
 git log --graph --pretty=oneline --abbrve-commit
 git stash
 git stash pop
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-
+this is test
