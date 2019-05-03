@@ -18,4 +18,4 @@ git checkout <name>
 git branch
 git merge <name>
 git branch -d <name>
-
+git log --graph --pretty=oneline --abbrve-commit
