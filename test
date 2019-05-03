@@ -22,3 +22,4 @@ git log --graph --pretty=oneline --abbrve-commit
 git stash
 git stash pop
 this is test
+git tag
