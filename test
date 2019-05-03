@@ -11,3 +11,11 @@ git checkout -- xx.file
 git reset HEAD xx.file
 git push origin master
 git clone
+
+git branch <name>
+git checkout -b <name>
+git checkout <name>
+git branch
+git merge <name>
+git branch -d <name>
+
