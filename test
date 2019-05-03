@@ -18,27 +18,5 @@ git checkout <name>
 git branch
 git merge <name>
 git branch -d <name>
-
-git merge git merge git merge git merge
-git merge merge merge merge merge merge 
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git mergegit merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge git merge git merge git merge git merge
-git merge git merge
-git merge git merge git merge git merge git merge git merge
-
+git log --graph --pretty=oneline --abbrve-commit
+test
